@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 //        textView.setTextColor(Color.BLUE);
 //        int maxline = textView.getMaxLines();
 //        textView.setText(textView.getText().toString()+maxline);
-
+// alve
         setContentView(R.layout.activity_main);
     }
 }
